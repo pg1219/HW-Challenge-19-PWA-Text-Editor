@@ -22,7 +22,7 @@ As a developer I want to create notes or code snippets with or without an intern
 
 ## Links
 
-Deployed application:
+Deployed application: https://pwa-pg-b06049823cea.herokuapp.com/
 
 Repo: https://github.com/pg1219/HW-Challenge-19-PWA-Text-Editor
 
